@@ -379,6 +379,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Microsoft */
+.button-klassic-quote {
+	--button-text:#ffffff;
+	--button-background:#000000;
+	--button-border:1px solid #FFFFFF;
+}
+
 /* Notion */
 .button-notion {
 	--button-text:#000000;
@@ -548,6 +555,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Tistory */
+.button-tistory {
+	--button-text:#000000;
+	--button-background:#FFFFFF;
+	--button-border:1px solid #212121;
+}
+
 /* Trello */
 .button-trello {
 	--button-text:#ffffff;
@@ -571,6 +585,13 @@
 .button-unsplash {
 	--button-text:#000000;
 	--button-background:#ffffff;
+	--button-border:1px solid #212121;
+}
+
+/* Upptime */
+.button-upptime {
+	--button-text:#ffffff;
+	--button-background:#1a8870;
 	--button-border:1px solid #212121;
 }
 
